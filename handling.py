@@ -16,3 +16,4 @@ except FileNotFoundError as e :
 
 
 #i = 0/0
+#we added it here just for fun
